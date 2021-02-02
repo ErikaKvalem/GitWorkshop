@@ -1,5 +1,9 @@
 # GitWorkshop
+
 Bienvenidos a git 
 
-Nueva linea 
+
+
+Git mola 
+
 Following TheBridge Git workshop &amp; terminal commands use 
