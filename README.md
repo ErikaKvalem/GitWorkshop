@@ -4,6 +4,6 @@ Bienvenidos a git
 
 
 
-Git mola 
+Git configurando 
 
 Following TheBridge Git workshop &amp; terminal commands use 
